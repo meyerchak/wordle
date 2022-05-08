@@ -3388,6 +3388,8 @@ const words = {
 		"booms",
 		"boomy",
 		"boong",
+		"bongs",
+		"boone",
 		"boons",
 		"boord",
 		"boors",
